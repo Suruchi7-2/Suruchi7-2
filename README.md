@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suruchi7-2/Portfolio_pj](https://github.com/Suruchi7-2/Portfolio_pj)
 
-- 💬 Ask me about **Server side scripting using PHP, DB, OOPs,  and javaScript. Python Library(Pandas).**
+- 💬 Ask me about **Server side scripting using PHP, DB,  OOPs,  and JavaScript, jQuery,  Python Library(Pandas).**
 
 - 📫 How to reach me **suruchikumari8579@gmail.com**
 
